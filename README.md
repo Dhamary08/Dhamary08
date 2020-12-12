@@ -6,12 +6,13 @@
 - :heart_eyes: Soy una apasiona Ingeniera Civil Industrial.
 - :relaxed: Me encanta aprender sobre Tecnología.
 - :confetti_ball: Mis últimos trabajos son enfocados en Frond End.
+<p>
 - :earth_americas: Co-Founder Coordinadora de Eventos & Relaciones Públicas de <a href="https://www.recoders.cl" target="_blank> Recoders</a> 
 - :convenience_store: Co-Founder SEO & Controller <a href="https://www.koders.cl" target="_blank> Koders Ltda</a> 
-
+</p>
 <h3 align="left">Contactame:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/valeria-Manriquez" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Valeria%20Manríquez" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/valeria-Manriquez" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Valeria%20Manríquez" height="30" width="40"/></a>
    
 </p>
 
