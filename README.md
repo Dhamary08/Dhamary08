@@ -1,13 +1,13 @@
 # Valeria Manríquez 
 
 
-### Yo:
+### About Me:
 
 - :heart_eyes: Soy una apasiona Ingeniera Civil Industrial.
 - :relaxed: Me encanta aprender sobre Tecnología.
 - :confetti_ball: Mis últimos trabajos son enfocados en Frond End.
-- :earth_americas: Co-Founder Coordinadora de Eventos & Relaciones Públicas de Recoders
-- :convenience_store: Co-Founder SEO & Controller Koders Ltda
+- :earth_americas: Co-Founder Coordinadora de Eventos & Relaciones Públicas de <a href="https://www.recoders.cl" target="_blank> Recoders</a> 
+- :convenience_store: Co-Founder SEO & Controller <a href="https://www.koders.cl" target="_blank> Koders Ltda</a> 
 
 <h3 align="left">Contactame:</h3>
 <p align="left">
