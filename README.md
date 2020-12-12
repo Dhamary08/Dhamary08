@@ -3,12 +3,11 @@
 
 ### About me:
 
-- Soy una apasiona Ingeniera Civil Industrial.
-- Me encanta aprender sobre Tecnología.
-- Me declaro hábil en Frond End.
-- Mis últimas habilidades es SEO, HTML 5
-- Co-Founder Coordinadora de Eventos & Relaciones Públicas de Recoders
-- Co-Founder SEO & Controller Koders Ltda
+- :heart_eyes: Soy una apasiona Ingeniera Civil Industrial.
+- :relaxed: Me encanta aprender sobre Tecnología.
+- :confetti_ball: Me declaro hábil en Frond End.
+- :earth_americas: Co-Founder Coordinadora de Eventos & Relaciones Públicas de Recoders
+- :convenience_store: Co-Founder SEO & Controller Koders Ltda
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
