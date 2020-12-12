@@ -1,7 +1,7 @@
 # Valeria Manríquez 
 
 
-### About me:
+### Yo:
 
 - :heart_eyes: Soy una apasiona Ingeniera Civil Industrial.
 - :relaxed: Me encanta aprender sobre Tecnología.
@@ -9,12 +9,13 @@
 - :earth_americas: Co-Founder Coordinadora de Eventos & Relaciones Públicas de Recoders
 - :convenience_store: Co-Founder SEO & Controller Koders Ltda
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contactame:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/valeria-Manriquez" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Valeria%20Manríquez" height="30" width="40" /></a>
+   
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Lenguajes y Herramientas :bowtie::</h3>
     <p align="left"> <a href="https://www.java.com" target="_blank"> <img
                 src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java"
                 width="40" height="40" /> </a> <a href="https://spring.io/" target="_blank"> <img
