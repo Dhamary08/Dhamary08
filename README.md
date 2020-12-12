@@ -5,7 +5,7 @@
 
 - :heart_eyes: Soy una apasiona Ingeniera Civil Industrial.
 - :relaxed: Me encanta aprender sobre Tecnología.
-- :confetti_ball: Me declaro hábil en Frond End.
+- :confetti_ball: Mis últimas dedidaciones son a Frond End.
 - :earth_americas: Co-Founder Coordinadora de Eventos & Relaciones Públicas de Recoders
 - :convenience_store: Co-Founder SEO & Controller Koders Ltda
 
