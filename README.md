@@ -8,19 +8,15 @@
 - :confetti_ball: I’m currently learning all about Frond End & SEO.
 - :curly_loop: I am looking to collaborate on projects that merge industrial engineering with technology in today's world
 - :speech_balloon: How to reach me **valeria@recoders.cl**
-
+- :link: Connect with me: <a href="https://linkedin.com/in/valeria-Manriquez" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Valeria%20Manríquez" height="30" width="40"/></a>
 - I’m currently working on:
     - :earth_americas: I'm Co-Founder and Events & Public Relations Coordinator of ReCoders. <a href="https://www.recoders.cl" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Dhamary08/Email-Sign/master/Vale.png" height="30" width="30"></a>
     - :convenience_store: I'm Co-Founder SEO & Controller Koders Ltda.  <a href="https://www.Koders.cl" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Dhamary08/Email-Sign/master/koders-blue.png" height="30" width="70"></a> 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/valeria-Manriquez" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Valeria%20Manríquez" height="30" width="40"/></a>
-</p>
-</p>
 
-<h3 align="left">Lenguajes y Herramientas :bowtie::</h3>
-    <p align="left"> <a href="#" target="_blank">    <img
+
+<h3 align="center">Languages and Tools :bowtie::</h3>
+    <p align="center"> <a href="#" target="_blank">    <img
                 src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java"
                 width="40" height="40" margin-right="3px"/> </a> <a href="https://spring.io/" target="_blank"> <img
                 src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40"
