@@ -40,5 +40,4 @@
                 src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"
                 width="40" height="40" margin-right="3px"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
             target="_blank"></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhamary08&show_icons=true&locale=en&theme=tokyonight&langs_count=3" alt="dhamary08" /> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhamary08&show_icons=true&locale=en&theme=tokyonight" alt="dhamary08" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhamary08&theme=dark" alt="dhamary08" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhamary08&show_icons=true&locale=en&layout=compact" alt="dhamary08"/>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhamary08&show_icons=true&locale=en&theme=tokyonight" alt="dhamary08" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhamary08&theme=dark" alt="dhamary08" /></p>
