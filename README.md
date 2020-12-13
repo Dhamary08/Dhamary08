@@ -11,7 +11,7 @@
 - :link: Connect with me: <a href="https://linkedin.com/in/valeria-Manriquez" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Dhamary08/Email-Sign/master/linkedin-in.png" alt="Valeria%20Manríquez" height="30" width="30"/></a>
 - I’m currently working on:
     - :earth_americas: I'm Co-Founder and Events & Public Relations Coordinator of ReCoders. <a href="https://www.recoders.cl" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Dhamary08/Email-Sign/master/Vale.png" height="30" width="30"></a>
-    - :convenience_store: I'm Co-Founder SEO & Controller Koders Ltda.  <a href="https://www.Koders.cl" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Dhamary08/Email-Sign/master/koders-blue.png" height="30" width="70"></a> 
+    - :convenience_store: I'm Co-Founder SEO & Controller Koders Ltda.  <a href="https://www.Koders.cl" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Dhamary08/Email-Sign/master/KOders.jpg" height="80" width="70"></a> 
 
 
 
