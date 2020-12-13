@@ -1,17 +1,21 @@
-# Valeria Manríquez 
-
+<h1 align="center">Hi :v:, I am Valeria Manríquez. :muscle: :woman:</h1> 
+<h3 align="center">:mortar_board: A passionate Industrial Engineer from Chile :earth_americas:</h3>
+<h4 align="center">:ribbon: I'm also a Full Stack Developer lover :two_hearts:</h4>
 
 ### About Me:
 
-- :heart_eyes: Soy una apasiona Ingeniera Civil Industrial.
-- :relaxed: Me encanta aprender sobre Tecnología.
-- :confetti_ball: Mis últimos trabajos son enfocados en Frond End.
-- :earth_americas: Co-Founder Coordinadora de Eventos & Relaciones Públicas de ReCoders
-- :convenience_store: Co-Founder SEO & Controller Koders Ltda
+- :relaxed: I love learning about technology.
+- :confetti_ball: I’m currently learning all about Frond End & SEO.
+- :curly_loop: I am looking to collaborate on projects that merge industrial engineering with technology in today's world
+- :speech_balloon: How to reach me **valeria@recoders.cl**
 
-<h3 align="left">Contactame:</h3>
+- I’m currently working on:
+    - :earth_americas: I'm Co-Founder and Events & Public Relations Coordinator of ReCoders. <a href="https://www.recoders.cl" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Dhamary08/Email-Sign/master/Vale.png" height="30" width="30"></a>
+    - :convenience_store: I'm Co-Founder SEO & Controller Koders Ltda.  <a href="https://www.Koders.cl" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Dhamary08/Email-Sign/master/koders-blue.png" height="30" width="70"></a> 
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/valeria-Manriquez" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Valeria%20Manríquez" height="30" width="40"/></a> <a href="https://www.Koders.cl" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Dhamary08/Email-Sign/master/KOders.jpg" height="30" width="30"></a> <a href="https://www.recoders.cl" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Dhamary08/Email-Sign/master/Vale.png" height="30" width="30"></a>
+<a href="https://linkedin.com/in/valeria-Manriquez" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Valeria%20Manríquez" height="30" width="40"/></a>
 </p>
 </p>
 
