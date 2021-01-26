@@ -17,13 +17,13 @@
 
 <h3 align="left">Languages and Tools :bowtie::</h3>
     <p align="left"> <a href="#" target="_blank"> <img
-                src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java"
+                src="https://www.vectorlogo.zone/util/preview.html?image=/logos/java/java-horizontal.svg" alt="java"
                 width="40" height="40" margin-right="3px"/> </a> <a href="https://spring.io/" target="_blank"> <img
                 src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40"
                 height="40" margin-right="3px"/> </a> </a> <a href="https://cloud.google.com" target="_blank"> <img
                 src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40"
                 height="40" margin-right="3px"/> </a> <a href="https://www.linux.org/" target="_blank"> <img
-                src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux"
+                src="https://www.vectorlogo.zone/util/preview.html?image=/logos/linux/linux-icon.svg" alt="linux"
                 width="40" height="40" margin-right="3px"/> </a> </a> <a href="https://www.mysql.com/" target="_blank"> <img
                 src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql"
                 width="40" height="40" margin-right="3px"/> </a> </a> <a href="https://www.oracle.com/" target="_blank"> <img
