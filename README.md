@@ -17,7 +17,7 @@
 
 <h3 align="left">Languages and Tools :bowtie::</h3>
     <p align="left"> <a href="#" target="_blank"> <img
-                src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" alt="java"
+                src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java"
                 width="50" height="40" margin-right="3px"/> </a> <a href="https://spring.io/" target="_blank"> <img
                 src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40"
                 height="40" margin-right="3px"/> </a> <a href="#" target="_blank"> <img
@@ -38,7 +38,7 @@
                 src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap"
                 width="40" height="40" margin-right="3px"/> </a> <a href="#" target="_blank"> <img
                 src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php"
-                width="40" height="40" margin-right="3px"/> </a> <a href="#" target="_blank"> <img
+                width="50" height="40" margin-right="3px"/> </a> <a href="#" target="_blank"> <img
                 src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript"
                 width="40" height="40" margin-right="3px"/> </a> <a href="#" target="_blank"> <img
                 src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass"
