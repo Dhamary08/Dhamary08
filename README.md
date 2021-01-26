@@ -20,20 +20,22 @@
                 src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" alt="java"
                 width="50" height="40" margin-right="3px"/> </a> <a href="https://spring.io/" target="_blank"> <img
                 src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40"
-                height="40" margin-right="3px"/> </a> </a> <a href="https://cloud.google.com" target="_blank"> <img
+                height="40" margin-right="3px"/> </a> <a href="#" target="_blank"> <img
+                src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" alt="Vue.js" width="50"
+                height="40" margin-right="3px"/> </a></a> <a href="https://cloud.google.com" target="_blank"> <img
                 src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40"
                 height="40" margin-right="3px"/> </a> <a href="https://www.linux.org/" target="_blank"> <img
                 src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux"
                 width="40" height="40" margin-right="3px"/> </a> </a> <a href="https://www.mysql.com/" target="_blank"> <img
                 src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql"
-                width="40" height="40" margin-right="3px"/> </a> </a> <a href="https://www.oracle.com/" target="_blank"> <img
+                width="50" height="40" margin-right="3px"/> </a> </a> <a href="https://www.oracle.com/" target="_blank"> <img
                 src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" alt="oracle"
                 width="40" height="40" margin-right="3px"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img
-                src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg"
-                alt="postgresql" width="40" height="40" margin-right="3px"/> </a><a href="https://www.python.org" target="_blank"> <img
-                src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python"
+                src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"
+                alt="postgresql" width="50" height="40" margin-right="3px"/> </a><a href="https://www.python.org" target="_blank"> <img
+                src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python"
                 width="40" height="40" margin-right="3px"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img
-                src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap"
+                src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap"
                 width="40" height="40" margin-right="3px"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img
                 src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"
                 width="40" height="40" margin-right="3px"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img
