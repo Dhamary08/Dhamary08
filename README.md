@@ -28,7 +28,7 @@
                 src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux"
                 width="40" height="40" margin-right="3px"/> </a> </a> <a href="https://www.mysql.com/" target="_blank"> <img
                 src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql"
-                width="50" height="40" margin-right="3px"/> </a> </a> <a href="https://www.oracle.com/" target="_blank"> <img
+                width="55" height="40" margin-right="3px"/> </a> </a> <a href="https://www.oracle.com/" target="_blank"> <img
                 src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" alt="oracle"
                 width="40" height="40" margin-right="3px"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img
                 src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"
@@ -38,7 +38,7 @@
                 src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap"
                 width="40" height="40" margin-right="3px"/> </a> <a href="#" target="_blank"> <img
                 src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php"
-                width="50" height="40" margin-right="3px"/> </a> <a href="#" target="_blank"> <img
+                width="55" height="40" margin-right="3px"/> </a> <a href="#" target="_blank"> <img
                 src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript"
                 width="40" height="40" margin-right="3px"/> </a> <a href="#" target="_blank"> <img
                 src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass"
