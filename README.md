@@ -21,7 +21,7 @@
                 width="50" height="40" margin-right="3px"/> </a> <a href="https://spring.io/" target="_blank"> <img
                 src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40"
                 height="40" margin-right="3px"/> </a> <a href="#" target="_blank"> <img
-                src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" alt="Vue.js" width="50"
+                src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="Vue.js" width="40"
                 height="40" margin-right="3px"/> </a></a> <a href="https://cloud.google.com" target="_blank"> <img
                 src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40"
                 height="40" margin-right="3px"/> </a> <a href="https://www.linux.org/" target="_blank"> <img
@@ -34,12 +34,12 @@
                 src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"
                 alt="postgresql" width="50" height="40" margin-right="3px"/> </a><a href="https://www.python.org" target="_blank"> <img
                 src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python"
-                width="40" height="40" margin-right="3px"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img
+                width="50" height="40" margin-right="3px"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img
                 src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap"
                 width="40" height="40" margin-right="3px"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img
                 src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"
                 width="40" height="40" margin-right="3px"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img
-                src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"
+                src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5"
                 width="40" height="40" margin-right="3px"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
             target="_blank"></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhamary08&show_icons=true&locale=en&theme=tokyonight&langs_count=3" alt="dhamary08" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhamary08&show_icons=true&locale=en&theme=tokyonight" alt="dhamary08" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhamary08&theme=dark" alt="dhamary08" /></p>
