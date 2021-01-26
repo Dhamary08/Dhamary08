@@ -33,11 +33,17 @@
                 width="40" height="40" margin-right="3px"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img
                 src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"
                 alt="postgresql" width="50" height="40" margin-right="3px"/> </a><a href="https://www.python.org" target="_blank"> <img
-                src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python"
+                src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python"
                 width="50" height="40" margin-right="3px"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img
                 src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap"
+                width="40" height="40" margin-right="3px"/> </a> <a href="#" target="_blank"> <img
+                src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php"
+                width="40" height="40" margin-right="3px"/> </a> <a href="#" target="_blank"> <img
+                src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript"
+                width="40" height="40" margin-right="3px"/> </a> <a href="#" target="_blank"> <img
+                src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass"
                 width="40" height="40" margin-right="3px"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img
-                src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"
+                src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png" alt="css3"
                 width="40" height="40" margin-right="3px"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img
                 src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5"
                 width="40" height="40" margin-right="3px"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
