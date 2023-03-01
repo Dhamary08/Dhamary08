@@ -12,7 +12,7 @@
 - I’m currently working on:
     - :earth_americas: I'm Co-Founder of ReCoders. <a href="https://www.recoders.cl" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Dhamary08/Email-Sign/master/Vale.png" height="30" width="30"></a>
     - :convenience_store: I'm Co-Founder SEO & Controller Koders Ltda.  <a href="https://www.Koders.cl" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Dhamary08/Email-Sign/master/koders-white.png" height="30" width="70"></a> 
-    - 💻 FrontEnd & UI in Check.  <a href="https://www.checkdigital.cl" target="_blank"><img align="center" src="https://checklaboral.cl/wp-content/uploads/2021/04/logo.png" height="30" width="70"></a> 
+    - 💻 FrontEnd & UI in Check.  <a href="https://www.checkdigital.cl" target="_blank"><img align="center" src=https://checkdigital.cl/assets/img/dark/check.svg" height="30" width="70"></a> 
 
 
 
