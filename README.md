@@ -10,11 +10,11 @@
 - :speech_balloon: How to reach me **valeria.manriquez90@gmail.com**
 - :link: Connect with me: <a href="https://www.linkedin.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" width="95"></a>
 - I’m currently working on:
-    - :cityscape: Developer Frontend & UI in Serviex <a href="https://www.digitalbankla.com" target="_blank"><img align="center" src="https://www.digitalbankla.com/wp-content/themes/digitalbank/img/logo.png" height="30" width="70"></a>	
-    - :convenience_store: I'm Co-Founder SEO & Controller Koders Ltda.  <a href="https://www.Koders.cl" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Dhamary08/Email-Sign/master/koders-white.png" height="30" width="70"></a> 
-- And worked:
-    - :earth_americas: I'm Co-Founder of ReCoders. <a href="https://www.recoders.cl" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Dhamary08/Email-Sign/master/Vale.png" height="30" width="30"></a>
-    - 💻 FrontEnd & UI in Check.  <a href="https://www.checkdigital.cl" target="_blank"><img align="center" src="https://checkdigital.cl/assets/img/dark/check.svg" height="30" width="70"></a> 
+    - :cityscape: Developer Frontend & UI in Serviex (actually) <a href="https://www.digitalbankla.com" target="_blank"><img align="center" src="https://www.digitalbankla.com/wp-content/themes/digitalbank/img/logo.png" height="30" width="70"></a>	
+    - :convenience_store: I'm Co-Founder SEO & Controller Koders Ltda. (3 years) <a href="https://www.Koders.cl" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Dhamary08/Email-Sign/master/koders-white.png" height="30" width="70"></a> 
+- Worked:
+    - :earth_americas: I'm Co-Founder of ReCoders. (1 years) <a href="https://www.recoders.cl" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Dhamary08/Email-Sign/master/Vale.png" height="30" width="30"></a>
+    - 💻 FrontEnd & UI in Check. (2 years)  <a href="https://www.checkdigital.cl" target="_blank"><img align="center" src="https://checkdigital.cl/assets/img/dark/check.svg" height="30" width="70"></a> 
 
 
 
